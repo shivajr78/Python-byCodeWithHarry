@@ -1,0 +1,2 @@
+
+        self.fare = fare
